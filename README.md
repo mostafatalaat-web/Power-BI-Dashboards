@@ -16,7 +16,7 @@ Power BI Desktop → Data modeling, DAX measures, dashboard creation.
 Excel / CSV → Data source for population data.
 Power Query → Data cleaning and transformation.
 
-![Uploading Screenshot 2025-12-06 003117.png…]()
+<img width="1920" height="1020" alt="Screenshot 2025-12-06 003117" src="https://github.com/user-attachments/assets/eb9cf08e-628a-40c6-a2f3-84b1726d22d2" />
 
 
 
